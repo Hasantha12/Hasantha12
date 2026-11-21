@@ -113,7 +113,12 @@
 </div>
 
 <br/>
+<!-- 8.5. 3D ISOMETRIC CONTRIBUTION CITY -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hasantha12/Hasantha12/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution City" />
+</div>
 
+<br/>
 <!-- 9. ANIMATED CONTRIBUTION SNAKE -->
 <div align="center">
   <picture>
