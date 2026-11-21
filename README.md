@@ -21,11 +21,14 @@
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<!-- ═══════════════ 4. TECH TICKER ═══════════════ -->
+<div align="center">
+  <img src="assets/ticker.svg" width="100%" alt="Tech ticker" />
+</div>
 
 <br/>
 
-<!-- ═══════════════ 4. PROFILE HUD ═══════════════ -->
+<!-- ═══════════════ 5. PROFILE HUD ═══════════════ -->
 <table border="0">
   <tr>
     <td width="58%" valign="top">
@@ -47,14 +50,14 @@
 
 <br/>
 
-<!-- ═══════════════ 5. STAT RINGS ═══════════════ -->
+<!-- ═══════════════ 6. STAT RINGS ═══════════════ -->
 <div align="center">
   <img src="assets/stats.svg" width="92%" alt="Stats" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 6. LIVE TERMINAL CARD ═══════════════ -->
+<!-- ═══════════════ 7. LIVE TERMINAL CARD ═══════════════ -->
 <div align="center">
   <img src="assets/terminal.svg" width="90%" alt="Terminal" />
 </div>
@@ -63,7 +66,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 7. FEATURED PROJECTS ═══════════════ -->
+<!-- ═══════════════ 8. FEATURED PROJECTS ═══════════════ -->
 ### 🛸 DEPLOYED & FEATURED ARCHITECTURE
 
 <div align="center">
@@ -74,7 +77,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 8. SKILLS ═══════════════ -->
+<!-- ═══════════════ 9. SKILLS ═══════════════ -->
 ### ⚙️ SKILL MATRIX
 
 <div align="center">
@@ -99,21 +102,27 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 9. CURRENTLY EXPLORING ═══════════════ -->
-### 🌱 CURRENTLY EXPLORING
+<!-- ═══════════════ 10. ABOUT.JS (LIVE CODE EDITOR) ═══════════════ -->
+### 👨‍💻 ABOUT.JS // DEVELOPER CONFIG
 
 <div align="center">
-  <img src="https://img.shields.io/badge/☁️_Cloud--Native-Architecture-00F7FF?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/🧩_System-Design-7C3AED?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/🤖_AI-Integrations-FF007F?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/🌍_Open-Source-22c55e?style=for-the-badge&labelColor=030712" />
+  <img src="assets/code.svg" width="90%" alt="about.js" />
+</div>
+
+<br/>
+
+<!-- ═══════════════ 11. 2026 ROADMAP ═══════════════ -->
+### 🗺️ 2026 MISSION ROADMAP
+
+<div align="center">
+  <img src="assets/roadmap.svg" width="100%" alt="2026 Mission Roadmap" />
 </div>
 
 <br/>
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 10. LIVE TELEMETRY ═══════════════ -->
+<!-- ═══════════════ 12. LIVE TELEMETRY ═══════════════ -->
 ### 📡 LIVE TELEMETRY & PERFORMANCE METRICS
 
 <div align="center">
@@ -129,7 +138,7 @@
 
 <br/>
 
-<!-- ═══════════════ 11. ACHIEVEMENTS ═══════════════ -->
+<!-- ═══════════════ 13. ACHIEVEMENTS ═══════════════ -->
 ### 🏆 ACHIEVEMENTS & FOCUS
 
 <div align="center">
@@ -143,21 +152,21 @@
 
 <br/>
 
-<!-- ═══════════════ 12. 3D CONTRIBUTION CITY ═══════════════ -->
+<!-- ═══════════════ 14. 3D CONTRIBUTION CITY ═══════════════ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hasantha12/Hasantha12/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution City" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 13. ACTIVITY GRAPH ═══════════════ -->
+<!-- ═══════════════ 15. ACTIVITY GRAPH ═══════════════ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasantha12&bg_color=030712&color=00f7ff&line=ff007f&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=15" width="98%" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 14. SNAKE ═══════════════ -->
+<!-- ═══════════════ 16. SNAKE ═══════════════ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasantha12/Hasantha12/output/github-contribution-grid-snake-dark.svg" />
@@ -170,7 +179,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 15. CONNECT ═══════════════ -->
+<!-- ═══════════════ 17. CONNECT ═══════════════ -->
 ### 🌐 LET'S CONNECT
 
 <div align="center">
@@ -181,14 +190,14 @@
 
 <br/>
 
-<!-- ═══════════════ 16. QUOTE ═══════════════ -->
+<!-- ═══════════════ 18. ROTATING QUOTES ═══════════════ -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=030712" alt="Dev Quote" />
+  <img src="assets/quotes.svg" width="85%" alt="Dev quotes" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 17. WAVE FOOTER ═══════════════ -->
+<!-- ═══════════════ 19. WAVE FOOTER ═══════════════ -->
 <div align="center">
   <img src="assets/wave.svg" width="100%" alt="Thanks for visiting" />
 </div>
