@@ -150,10 +150,15 @@ const hasantha = {
 <br/>
 
 <!-- ═══════════════ 9. TROPHIES ═══════════════ -->
-### 🏆 TROPHY ROOM
+### 🏆 ACHIEVEMENTS & FOCUS
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasantha12&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
+  <img src="https://img.shields.io/badge/🎓_NSBM-Green_University-00F7FF?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/💻_Full--Stack-Developer-FF007F?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/🤖_AI-Platforms-7C3AED?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/🗄️_PostgreSQL-System_Design-316192?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/🎨_UI%2FUX-Figma-F24E1E?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/🏍️_Custom_Builds-Motorcycles-22c55e?style=for-the-badge&labelColor=030712" />
 </div>
 
 <br/>
