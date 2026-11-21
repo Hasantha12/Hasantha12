@@ -38,19 +38,39 @@
       <ul>
         <li>🔭 <b>Currently working on:</b> Full-Stack Web & Mobile Apps and Database Optimization</li>
         <li>🌱 <b>Exploring:</b> Cloud Architecture, System Design & AI Integrations</li>
-        <li>💡 <b>Featured Projects:</b>
-          <ul>
-            <li><b>RecruitAI</b> – Intelligent recruitment & candidate screening platform</li>
-            <li><b>Multi-Warehouse Supply Chain System</b> – Real-time inventory optimization (PostgreSQL)</li>
-            <li><b>Riyasewana.com UI Redesign</b> – Modernized HCI & UX prototype in Figma</li>
-          </ul>
-        </li>
+        <li>🎓 <b>Education:</b> BSc (Hons) in Software Engineering @ <b>NSBM Green University</b></li>
         <li>🎯 <b>2026 Goal:</b> Mastering software architecture & building impactful open-source tools</li>
         <li>⚡ <b>Fun fact:</b> Outside of coding, I love motorcycle modifications and digital graphic design!</li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🌟 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🤖 RecruitAI</h4>
+      <p>Intelligent recruitment & automated candidate screening platform designed to streamline hiring workflows.</p>
+      <p><b>Tech:</b> Python, React, Node.js, AI</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📦 Supply Chain System</h4>
+      <p>Real-time multi-warehouse inventory tracking and optimization engine built for high-concurrency operations.</p>
+      <p><b>Tech:</b> PostgreSQL, Java, Node.js</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🎨 Riyasewana UI Redesign</h4>
+      <p>Modernized Human-Computer Interaction (HCI) & UX prototype focused on intuitive vehicle search.</p>
+      <p><b>Tech:</b> Figma, UI/UX, Prototyping</p>
     </td>
   </tr>
 </table>
@@ -69,7 +89,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 Live GitHub Analytics & Trophies
+### 📊 Live GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasantha12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -82,6 +102,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasantha12&theme=tokyonight" width="95%" />
+</div>
+
+<br/>
+
 <!-- Live Contribution Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasantha12&theme=tokyo-night&hide_border=true&area=true" width="95%" />
@@ -89,11 +115,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasantha12&theme=tokyonight" width="95%" />
-</div>
-
-<br/>
 <!-- Contribution Snake Animation -->
 <div align="center">
   <picture>
@@ -104,6 +125,14 @@
 </div>
 
 <br/>
+
+<!-- Dynamic Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
+
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:090d16&height=110&section=footer" width="100%" />
