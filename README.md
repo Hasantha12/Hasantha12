@@ -1,52 +1,46 @@
-<!-- Animated Cyber-Neon Header Banner -->
+<!-- 1. CUSTOM ANIMATED CYBER-WAVE HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:0f172a,70:1d4ed8,100:06b6d4&height=240&section=header&text=HASANTHA%20MADUMAL&fontSize=48&fontColor=38bdf8&animation=twinkling&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20ARCHITECT&descAlignY=65&descSize=18&descColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e1b4b,100:06b6d4&height=260&section=header&text=HASANTHA%20MADUMAL&fontSize=50&fontColor=00f7ff&animation=fadeIn&fontAlignY=36&desc=⚡%20SOFTWARE%20ENGINEER%20%7C%20SYSTEM%20ARCHITECT%20%7C%20FULL-STACK%20DEV%20⚡&descAlignY=58&descSize=16&descColor=e2e8f0" width="100%" />
 </div>
 
-<!-- Animated Neon Laser Line -->
+<!-- 2. ANIMATED HOLOGRAM TERMINAL -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<br/>
-
-<!-- Animated Terminal Typing Window -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00F7FF&background=090D16&center=true&vCenter=true&width=750&height=65&lines=%3E_INITIALIZING+SYSTEM...;WELCOME+TO+HASANTHA'S+DEV+WORKSPACE+%F0%9F%9A%80;2ND+YEAR+SE+UNDERGRADUATE+%40+NSBM+GREEN+UNIVERSITY;FULL-STACK+%7C+POSTGRESQL+%7C+REACT+%7C+AI+SYSTEMS" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=700&color=00F7FF&background=090D16&center=true&vCenter=true&multiline=true&width=800&height=95&lines=%5BROOT%40HASANTHA-DEV%5D%3A~%24+.%2Flaunch_portfolio.sh;%3E%3E+BSc+(Hons)+Software+Engineering+%40+NSBM+Green+University+%F0%9F%87%B1%F0%9F%87%B0;%3E%3E+Architecting+Full-Stack%2C+PostgreSQL+%26+AI-Powered+Systems" alt="Hologram Terminal" />
 </div>
 
 <br/>
 
-<!-- Glowing Social & Live Counter Badges -->
+<!-- 3. NEON ACTION BAR -->
 <div align="center">
   <a href="https://www.linkedin.com/in/hasantha-madumal-a31466382/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Hasantha12" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="GitHub" />
+  <a href="https://github.com/Hasantha12?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-090D16?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Hasantha12&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hasantha12&label=VISITOR_COUNT&color=00F7FF&style=for-the-badge" />
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- About Me + Cyberpunk Developer GIF -->
+<!-- 4. DEVELOPER HUD + 3D WORKSPACE ANIMATION -->
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
-      <h3>⚡ SYSTEM.INFO // ABOUT ME</h3>
+    <td width="58%" valign="top">
+      <h3>🧬 DEVELOPER PROFILE // HUD</h3>
+      <p>Building high-performance software from concept to deployment. Focused on clean architecture, scalable databases, and modern user experiences.</p>
       <ul>
-        <li>🔭 <b>Current Mission:</b> Building Scalable Full-Stack Web & Mobile Apps</li>
-        <li>🌱 <b>Exploring:</b> Cloud Architecture, System Design & AI Integrations</li>
-        <li>🎓 <b>Academy:</b> BSc (Hons) in Software Engineering @ <b>NSBM Green University</b> 🇱🇰</li>
-        <li>🎯 <b>2026 Target:</b> Mastering enterprise architecture & open-source development</li>
-        <li>🏍️ <b>Off-Screen:</b> Motorcycle custom builds & digital graphic design</li>
+        <li>🔭 <b>Active Focus:</b> Full-Stack Web/Mobile Apps & Real-Time Database Engines</li>
+        <li>🧠 <b>Currently Mastering:</b> Distributed Systems, Cloud Architecture & AI Workflows</li>
+        <li>🎓 <b>Education:</b> 2nd Year SE Undergraduate @ <b>NSBM Green University</b></li>
+        <li>🚀 <b>2026 Mission:</b> Shipping production-grade open-source & enterprise software</li>
+        <li>⚡ <b>Beyond Code:</b> Custom motorcycle builds & digital visual design</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 12px;" alt="Cyber Dev Animation" />
+    <td width="42%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 15px;" alt="3D Coding Workspace" />
     </td>
   </tr>
 </table>
@@ -55,24 +49,31 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🚀 DEPLOYED & FEATURED SYSTEMS
+<!-- 5. FEATURED ARCHITECTURE & PROJECTS -->
+### 🛸 FEATURED SYSTEMS & ARCHITECTURE
 
 <table border="0">
   <tr>
     <td width="33%" valign="top">
       <h4>🤖 RecruitAI</h4>
-      <p>Automated recruitment & intelligent candidate screening platform powered by AI workflows.</p>
-      <p><code>Python</code> <code>React</code> <code>Node.js</code></p>
+      <p>AI-driven recruitment & automated candidate screening system engineered to accelerate technical hiring.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
     <td width="33%" valign="top">
-      <h4>📦 Multi-Warehouse Engine</h4>
-      <p>Real-time supply chain & high-concurrency inventory optimization database system.</p>
-      <p><code>PostgreSQL</code> <code>Java</code> <code>Node.js</code></p>
+      <h4>📦 Supply Chain Engine</h4>
+      <p>Real-time multi-warehouse inventory optimization & high-concurrency transaction database system.</p>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/System_Design-00F7FF?style=flat-square" />
     </td>
     <td width="33%" valign="top">
-      <h4>🎨 Riyasewana UX Overhaul</h4>
-      <p>Next-gen Human-Computer Interaction (HCI) & responsive UI prototype.</p>
-      <p><code>Figma</code> <code>UI/UX</code> <code>Prototyping</code></p>
+      <h4>🎨 Riyasewana UX</h4>
+      <p>Complete Human-Computer Interaction (HCI) & responsive UI/UX overhaul crafted with modern design systems.</p>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/UI%2FUX-FF007F?style=flat-square" />
+      <img src="https://img.shields.io/badge/Prototyping-7C3AED?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -81,7 +82,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🛠️ ARSENAL // TECH STACK
+<!-- 6. TECH STACK MATRIX -->
+### ⚙️ CORE TECH STACK & ARSENAL
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,py,js,html,css,react,nodejs,flutter,postgres,mysql,figma,git,github,vscode&perline=8" />
@@ -91,33 +93,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 📊 LIVE TELEMETRY & ANALYTICS
+<!-- 7. LIVE TELEMETRY DASHBOARD -->
+### 📡 LIVE GITHUB TELEMETRY & ANALYTICS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasantha12&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasantha12&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Hasantha12&show_icons=true&theme=tokyonight&bg_color=090d16&title_color=00f7ff&icon_color=00f7ff&text_color=e2e8f0&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasantha12&layout=compact&langs_count=8&theme=tokyonight&bg_color=090d16&title_color=00f7ff&text_color=e2e8f0&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasantha12&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasantha12&theme=radical" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasantha12&theme=tokyonight&background=090d16&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- Live Contribution Activity Graph -->
+<!-- 8. LIVE PULSE CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasantha12&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasantha12&bg_color=090d16&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="98%" />
 </div>
 
 <br/>
 
-<!-- Contribution Snake Animation -->
+<!-- 9. ANIMATED CONTRIBUTION SNAKE -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasantha12/Hasantha12/output/github-contribution-grid-snake-dark.svg" />
@@ -128,7 +125,7 @@
 
 <br/>
 
-<!-- Animated Cyber Footer -->
+<!-- 10. CYBER FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:1d4ed8,70:0f172a,100:020617&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:1e1b4b,70:0f172a,100:020617&height=130&section=footer" width="100%" />
 </div>
