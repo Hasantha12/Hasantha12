@@ -90,7 +90,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasantha12&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasantha12&theme=tokyonight" width="95%" />
 </div>
 
 <br/>
