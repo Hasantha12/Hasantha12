@@ -1,11 +1,11 @@
-<!-- ═══════════════ 1. ANIMATED WAVE HEADER ═══════════════ -->
+<!-- ═══════════════ 1. ANIMATED HERO BANNER (self-hosted) ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:1e1b4b,65:7c3aed,100:00f7ff&height=300&section=header&text=HASANTHA%20MADUMAL&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&stroke=00f7ff&strokeWidth=1&desc=⚡%20Software%20Engineering%20Undergraduate%20%7C%20System%20Architect%20%7C%20Full-Stack%20Builder%20⚡&descAlignY=58&descSize=16" width="100%" />
+  <img src="assets/banner.svg" width="100%" alt="Hasantha Madumal" />
 </div>
 
 <!-- ═══════════════ 2. TYPING TERMINAL ═══════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=600&color=00F7FF&background=030712&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%5Broot%40hasantha%5D%3A~%24+.%2Finit_core_systems.sh;%3E%3E+Loading+modules%3A+Java+%7C+Python+%7C+React+%7C+PostgreSQL+%7C+AI...;%3E%3E+3rd+Year+BSc+(Hons)+Software+Engineering+%40+NSBM+%F0%9F%87%B1%F0%9F%87%B0;%3E%3E+Status%3A+%E2%9C%85+Ready+for+high-impact+engineering+challenges+%F0%9F%9A%80" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=600&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%5Broot%40hasantha%5D%3A~%24+.%2Finit_core_systems.sh;%3E%3E+Loading+modules%3A+Java+%7C+Python+%7C+React+%7C+PostgreSQL+%7C+AI...;%3E%3E+3rd+Year+BSc+(Hons)+Software+Engineering+%40+NSBM+%F0%9F%87%B1%F0%9F%87%B0;%3E%3E+Status%3A+%E2%9C%85+Ready+for+high-impact+engineering+challenges+%F0%9F%9A%80" alt="Terminal" />
 </div>
 
 <br/>
@@ -21,10 +21,7 @@
 
 <br/>
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="6" />
-</div>
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
 <br/>
 
@@ -50,32 +47,14 @@
 
 <br/>
 
-<!-- ═══════════════ 5. DEV.JSON CODE CARD ═══════════════ -->
-### 👨‍💻 `about.js`
-
-```js
-const hasantha = {
-  codename:  "Madumal",
-  role:      "Software Engineering Undergraduate",
-  university:"NSBM Green University 🇱🇰",
-  location:  "Sri Lanka",
-  stack: {
-    frontend: ["React", "Flutter", "HTML5", "CSS3"],
-    backend:  ["Java", "C#", "Python", "Node.js"],
-    database: ["PostgreSQL", "MySQL"],
-    design:   ["Figma", "UI/UX", "Prototyping"],
-  },
-  currentlyBuilding: ["AI-driven platforms", "Distributed systems"],
-  philosophy: "Ship fast. Design clean. Never stop learning.",
-  hireable:  true,
-};
-```
+<!-- ═══════════════ 5. LIVE TERMINAL CARD (self-hosted) ═══════════════ -->
+<div align="center">
+  <img src="assets/terminal.svg" width="90%" alt="Terminal" />
+</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:7c3aed&height=3&section=header" width="100%" />
-</div>
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
 <!-- ═══════════════ 6. FEATURED PROJECTS ═══════════════ -->
 ### 🛸 DEPLOYED & FEATURED ARCHITECTURE
@@ -108,12 +87,16 @@ const hasantha = {
 
 <br/>
 
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+<!-- ═══════════════ 7. SKILL MATRIX (self-hosted animated bars) ═══════════════ -->
+### ⚙️ SKILL MATRIX
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00f7ff&height=3&section=header" width="100%" />
+  <img src="assets/skills.svg" width="92%" alt="Skill Matrix" />
 </div>
 
-<!-- ═══════════════ 7. TECH ARSENAL ═══════════════ -->
-### ⚙️ FULL-STACK ARSENAL & INFRASTRUCTURE
+<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,py,js,html,css,react,nodejs,flutter,postgres,mysql,figma,git,github,vscode,docker,linux&perline=9" />
@@ -129,11 +112,23 @@ const hasantha = {
 
 <br/>
 
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+<!-- ═══════════════ 8. CURRENTLY EXPLORING ═══════════════ -->
+### 🌱 CURRENTLY EXPLORING
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:ff007f&height=3&section=header" width="100%" />
+  <img src="https://img.shields.io/badge/☁️_Cloud--Native-Architecture-00F7FF?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/🧩_System-Design-7C3AED?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/🤖_AI-Integrations-FF007F?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/🌍_Open-Source-22c55e?style=for-the-badge&labelColor=030712" />
 </div>
 
-<!-- ═══════════════ 8. LIVE TELEMETRY ═══════════════ -->
+<br/>
+
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+<!-- ═══════════════ 9. LIVE TELEMETRY ═══════════════ -->
 ### 📡 LIVE TELEMETRY & PERFORMANCE METRICS
 
 <div align="center">
@@ -149,7 +144,7 @@ const hasantha = {
 
 <br/>
 
-<!-- ═══════════════ 9. TROPHIES ═══════════════ -->
+<!-- ═══════════════ 10. ACHIEVEMENTS ═══════════════ -->
 ### 🏆 ACHIEVEMENTS & FOCUS
 
 <div align="center">
@@ -163,21 +158,21 @@ const hasantha = {
 
 <br/>
 
-<!-- ═══════════════ 10. 3D CONTRIBUTION CITY ═══════════════ -->
+<!-- ═══════════════ 11. 3D CONTRIBUTION CITY ═══════════════ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hasantha12/Hasantha12/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution City" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 11. ACTIVITY GRAPH ═══════════════ -->
+<!-- ═══════════════ 12. ACTIVITY GRAPH ═══════════════ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasantha12&bg_color=030712&color=00f7ff&line=ff007f&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=15" width="98%" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 12. SNAKE ═══════════════ -->
+<!-- ═══════════════ 13. SNAKE ═══════════════ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasantha12/Hasantha12/output/github-contribution-grid-snake-dark.svg" />
@@ -188,25 +183,27 @@ const hasantha = {
 
 <br/>
 
-<!-- ═══════════════ 13. CONNECT ═══════════════ -->
+<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+
+<!-- ═══════════════ 14. CONNECT ═══════════════ -->
 ### 🌐 LET'S CONNECT
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hasantha-madumal-a31466382/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FF007F&center=true&vCenter=true&width=700&lines=Have+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80;Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Drop+me+a+message+on+LinkedIn+%F0%9F%92%AC" alt="Connect" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FF007F&background=00000000&center=true&vCenter=true&width=700&lines=Have+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80;Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Drop+me+a+message+on+LinkedIn+%F0%9F%92%AC" alt="Connect" />
   </a>
 </div>
 
 <br/>
 
-<!-- ═══════════════ 14. QUOTE ═══════════════ -->
+<!-- ═══════════════ 15. QUOTE ═══════════════ -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=030712" alt="Dev Quote" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 15. WAVE FOOTER ═══════════════ -->
+<!-- ═══════════════ 16. WAVE FOOTER ═══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,35:7c3aed,70:1e1b4b,100:030712&height=160&section=footer&text=Thanks%20for%20visiting%20✨&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
 </div>
