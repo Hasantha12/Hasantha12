@@ -1,4 +1,4 @@
-<!-- ═══════════════ 1. ANIMATED HERO BANNER (self-hosted) ═══════════════ -->
+<!-- ═══════════════ 1. ANIMATED HERO BANNER ═══════════════ -->
 <div align="center">
   <img src="assets/banner.svg" width="100%" alt="Hasantha Madumal" />
 </div>
@@ -47,7 +47,14 @@
 
 <br/>
 
-<!-- ═══════════════ 5. LIVE TERMINAL CARD (self-hosted) ═══════════════ -->
+<!-- ═══════════════ 5. STAT RINGS ═══════════════ -->
+<div align="center">
+  <img src="assets/stats.svg" width="92%" alt="Stats" />
+</div>
+
+<br/>
+
+<!-- ═══════════════ 6. LIVE TERMINAL CARD ═══════════════ -->
 <div align="center">
   <img src="assets/terminal.svg" width="90%" alt="Terminal" />
 </div>
@@ -56,44 +63,30 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 6. FEATURED PROJECTS ═══════════════ -->
+<!-- ═══════════════ 7. FEATURED PROJECTS ═══════════════ -->
 ### 🛸 DEPLOYED & FEATURED ARCHITECTURE
 
-<table border="0">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🤖 RecruitAI</h4>
-      <p>AI-powered recruitment & automated candidate screening platform engineered to streamline technical hiring workflows.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>📦 Multi-Warehouse Engine</h4>
-      <p>Real-time supply chain & high-concurrency inventory optimization database system built for multi-node operations.</p>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/System_Design-00F7FF?style=for-the-badge&logoColor=black" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🎨 Riyasewana UX Overhaul</h4>
-      <p>Next-gen HCI & responsive UI/UX prototype crafted with modern design systems.</p>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/UI%2FUX-FF007F?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Prototyping-7C3AED?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/projects.svg" width="100%" alt="Featured Projects" />
+</div>
 
 <br/>
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 7. SKILL MATRIX (self-hosted animated bars) ═══════════════ -->
+<!-- ═══════════════ 8. SKILLS ═══════════════ -->
 ### ⚙️ SKILL MATRIX
 
 <div align="center">
   <img src="assets/skills.svg" width="92%" alt="Skill Matrix" />
+</div>
+
+<br/>
+
+### 🪐 TECH ORBIT
+
+<div align="center">
+  <img src="assets/orbit.svg" width="85%" alt="Tech Orbit" />
 </div>
 
 <br/>
@@ -104,17 +97,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-React_%7C_Flutter_%7C_HTML5_%7C_CSS3-00F7FF?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/Backend-Java_%7C_C%23_%7C_Python_%7C_Node.js-FF007F?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/Database_%26_Design-PostgreSQL_%7C_MySQL_%7C_Figma-7C3AED?style=for-the-badge&labelColor=030712" />
-</div>
-
-<br/>
-
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 8. CURRENTLY EXPLORING ═══════════════ -->
+<!-- ═══════════════ 9. CURRENTLY EXPLORING ═══════════════ -->
 ### 🌱 CURRENTLY EXPLORING
 
 <div align="center">
@@ -128,7 +113,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 9. LIVE TELEMETRY ═══════════════ -->
+<!-- ═══════════════ 10. LIVE TELEMETRY ═══════════════ -->
 ### 📡 LIVE TELEMETRY & PERFORMANCE METRICS
 
 <div align="center">
@@ -144,7 +129,7 @@
 
 <br/>
 
-<!-- ═══════════════ 10. ACHIEVEMENTS ═══════════════ -->
+<!-- ═══════════════ 11. ACHIEVEMENTS ═══════════════ -->
 ### 🏆 ACHIEVEMENTS & FOCUS
 
 <div align="center">
@@ -158,21 +143,21 @@
 
 <br/>
 
-<!-- ═══════════════ 11. 3D CONTRIBUTION CITY ═══════════════ -->
+<!-- ═══════════════ 12. 3D CONTRIBUTION CITY ═══════════════ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hasantha12/Hasantha12/main/profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution City" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 12. ACTIVITY GRAPH ═══════════════ -->
+<!-- ═══════════════ 13. ACTIVITY GRAPH ═══════════════ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasantha12&bg_color=030712&color=00f7ff&line=ff007f&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=15" width="98%" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 13. SNAKE ═══════════════ -->
+<!-- ═══════════════ 14. SNAKE ═══════════════ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasantha12/Hasantha12/output/github-contribution-grid-snake-dark.svg" />
@@ -185,25 +170,25 @@
 
 <div align="center"><img src="assets/divider.svg" width="100%" /></div>
 
-<!-- ═══════════════ 14. CONNECT ═══════════════ -->
+<!-- ═══════════════ 15. CONNECT ═══════════════ -->
 ### 🌐 LET'S CONNECT
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hasantha-madumal-a31466382/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FF007F&background=00000000&center=true&vCenter=true&width=700&lines=Have+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80;Open+to+internships+%26+collaborations+%F0%9F%A4%9D;Drop+me+a+message+on+LinkedIn+%F0%9F%92%AC" alt="Connect" />
+    <img src="assets/connect.svg" width="70%" alt="Connect on LinkedIn" />
   </a>
 </div>
 
 <br/>
 
-<!-- ═══════════════ 15. QUOTE ═══════════════ -->
+<!-- ═══════════════ 16. QUOTE ═══════════════ -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=030712" alt="Dev Quote" />
 </div>
 
 <br/>
 
-<!-- ═══════════════ 16. WAVE FOOTER ═══════════════ -->
+<!-- ═══════════════ 17. WAVE FOOTER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,35:7c3aed,70:1e1b4b,100:030712&height=160&section=footer&text=Thanks%20for%20visiting%20✨&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" />
+  <img src="assets/wave.svg" width="100%" alt="Thanks for visiting" />
 </div>
